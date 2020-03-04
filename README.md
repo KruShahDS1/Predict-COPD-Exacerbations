@@ -1,2 +1,2 @@
-# data-science-project-code
+# Predict-COPD-Exacerbations
 Repository to save data science science projects
