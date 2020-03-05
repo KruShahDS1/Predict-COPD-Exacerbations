@@ -17,3 +17,7 @@ Based on these predictions, COPD exacerbation rapid action plan from the data ca
 This rapid action plan can be used to 
 a.	educate and train the patient and family to self-monitor and 
 b.	self-manage post discharge to lower the likelihood of unnecessary hospitalization for patients with COPD 
+
+Please refer to ## MLM-1909 Kruti Shah.pdf for the problem overview.
+Please refer to ## 
+
