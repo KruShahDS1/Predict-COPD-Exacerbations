@@ -18,7 +18,10 @@ This rapid action plan can be used to
 a.	educate and train the patient and family to self-monitor and 
 b.	self-manage post discharge to lower the likelihood of unnecessary hospitalization for patients with COPD 
 
+## Files 
 Please refer to  MLM-1909 Kruti Shah.pdf for the complete project details.
+
 Please refer to  MLMCopd111R.Rmd for complete project code.
+
 copd.csv and copd_dr.csv are the datasets used in this project.
 
